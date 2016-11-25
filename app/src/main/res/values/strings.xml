@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movie app</string>
+    <string name="Settings">action_settings</string>
+    <string name="title_activity_details">Details</string>
+
+
+    <string name="kind_default" translatable = "false">popular</string>
+    <string name="kind_popular" translatable = "false">popular</string>
+    <string name="kind_top_rated" translatable = "false">top_rated</string>
+
+    <string-array name="Movies_Kind">
+        <item>popular</item>
+        <item>top_rated</item>
+        <item>favourite</item>
+    </string-array>
+    <string-array name="Movies_Kinds">
+        <item>Popular</item>
+        <item>Top Rated</item>
+        <item>Favourite</item>
+    </string-array>
+    <string name="title_activity_setting">Setting</string>
+</resources>
